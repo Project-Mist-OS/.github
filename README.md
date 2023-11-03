@@ -1,6 +1,6 @@
 # Welcome to the Project Mist OS ...
 
-![Source Code](https://raw.githubusercontent.com/Project-Mist-OS/manifest/13.1/assets/Banner.png)
+![Source Code](https://github.com/Project-Mist-OS/manifest/blob/13.1/assets/Banner.png)
 
 ## Basics that you may need to know
 
