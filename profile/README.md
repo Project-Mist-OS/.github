@@ -17,6 +17,10 @@ Now that we mentioned the important repositories for building, if you want you c
  * [**Apply Maintainership**]()
  * [**XDA Template**]()
 
+### Download ###
+[![Download](https://img.shields.io/sourceforge/dt/projectmist.svg)](https://sourceforge.net/projects/project-mistos/)
+
+
 Have you done it already? Okay, good. Now if you need to contact us, well, you may ask in our [Telegram](https://t.me/MistOSDiscussion) Support Group, ~~we may or may not answer.~~
 
  * [**Telegram Chat Group**](https://t.me/MistOSDiscussion)
