@@ -14,7 +14,7 @@ Now that we mentioned the important repositories for building, if you want you c
 
 ## Maintainership 
 
- * [**Apply Maintainership**](https://7cf4ylqp947.typeform.com/to/DoLbhW58)
+ * [**Apply Maintainership**]([https://7cf4ylqp947.typeform.com/to/DoLbhW58](https://github.com/Project-Mist-OS/maintainership/issues/new/choose))
    
 
 ### Download ###
