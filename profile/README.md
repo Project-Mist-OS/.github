@@ -9,6 +9,7 @@
 To get started, you gonna have to check the following repositories:
 
  * [**Manifest**](https://github.com/Project-Mist-OS/manifest)
+ * [**Mist_Devices**](https://github.com/MistOS-Devices)
 
 Now that we mentioned the important repositories for building, if you want you can checkout some repositories to join us, 
 
